@@ -1,0 +1,4 @@
+repository "PlayerMoment@AdityaMalu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
