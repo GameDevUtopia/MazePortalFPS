@@ -230,6 +230,7 @@ GameObject:
   - component: {fileID: 636156758}
   - component: {fileID: 636156757}
   - component: {fileID: 636156761}
+  - component: {fileID: 636156762}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -339,6 +340,19 @@ MonoBehaviour:
   shootPoint: {fileID: 1731176159}
   Bullet: {fileID: -2767775086183429994, guid: 288c4cf958a06444ab78400ef998dd5a, type: 3}
   bulletSpeed: 50
+--- !u!114 &636156762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636156756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 011367bbe5e7e814da3af04abf359cbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timer: 0
 --- !u!1 &1034058679
 GameObject:
   m_ObjectHideFlags: 0

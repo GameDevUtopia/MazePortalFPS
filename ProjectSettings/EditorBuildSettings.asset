@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PrefabShooting.unity
+    guid: 02619b83a71bb8f4f8152e01eaabb1b3
+  - enabled: 1
+    path: Assets/Scenes/Exit.unity
+    guid: b9fa0926d8e293d49a49037bb0ac6885
   m_configObjects: {}
